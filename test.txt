@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-I love python,I will do my best to study python.trust me i can nothing
-=======
->>>>>>> parent of 04a7fdb... 学习寄语
-=======
->>>>>>> parent of 04a7fdb... 学习寄语
-=======
->>>>>>> parent of 04a7fdb... 学习寄语
+﻿I love python,I will do my best to study python.我们修改了一个bug
